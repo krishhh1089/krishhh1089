@@ -79,7 +79,7 @@ A backend-focused food ordering system exploring independently deployable servic
 
 **Technologies:** Python, FastAPI, PostgreSQL, Apache Kafka, Avro, Docker, Microservices
 
-[Explore GitHub Repositories](https://github.com/krishhh1089)
+[View Repository](https://github.com/krishhh1089/food-ordering)
 
 ### 🧠 Sentiment Analysis
 A Natural Language Processing project focused on classifying sentiment expressed in text.
@@ -100,7 +100,7 @@ A gym management system concept focused on student slot allocation, attendance v
 
 **Technologies:** Python, FastAPI, PostgreSQL, Redis, Docker, Microservices
 
-[Explore GitHub Repositories](https://github.com/krishhh1089)
+[View Repository](https://github.com/krishhh1089/Gym-allocation)
 
 ### 📄 PDF Tools
 A utility application for working with PDF documents, including conversion, merging, splitting, and compression.
@@ -125,10 +125,11 @@ A utility application for working with PDF documents, including conversion, merg
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishhh1089&show_icons=true&theme=github_dark&hide_border=true" alt="Krishna's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishhh1089&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-</p>
+[![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishhh1089&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/krishhh1089)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishhh1089&layout=compact&theme=github_dark&hide_border=true)](https://github.com/krishhh1089?tab=repositories)
+
+> If these cards show only their alt text, the external GitHub Stats service is not returning images. The rest of this README will still render normally.
 
 ---
 
