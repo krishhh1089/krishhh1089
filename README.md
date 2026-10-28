@@ -23,6 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.geeksforgeeks.org/profile/gamer1234n64t" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
   <a href="https://www.linkedin.com/in/krishna-shah-788371324/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
